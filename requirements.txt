@@ -1,0 +1,7 @@
+tensorflow
+Theano[test]
+Theano[doc]
+keras
+pandas
+sklearn
+matplotlib
